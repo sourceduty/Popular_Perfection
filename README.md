@@ -5,11 +5,11 @@
 ## CONCEPTS
 
 - Collecting and compiling features detected in celebrity face images with Python to create a perfect_face_concept image.
-<br />
+
 - Collecting and compiling features detected in product design images using Python to create a perfect_product_concept image.
-<br />
+
 - Collecting and compiling features detected in Python code files to create a perfect_Python_code file.
-<br />
+
 - Collecting and compiling features detected in house images with Pyton to build a perfect_house_concept image.
 
 ## REFERENCES
