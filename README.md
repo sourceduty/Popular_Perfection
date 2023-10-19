@@ -12,4 +12,5 @@
 ## REFERENCES
 
 [Perfection](https://en.wikipedia.org/wiki/Perfection)
+<br />
 [Detect an object with OpenCV-Python](https://www.geeksforgeeks.org/detect-an-object-with-opencv-python/)
