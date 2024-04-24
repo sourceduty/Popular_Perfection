@@ -12,6 +12,8 @@ However, there are significant drawbacks to this approach. Focusing on 'perfecti
 
 > - AI could generate a Standard Human model.
 
+> - AI could generate a yearly Standard Report for the perfect models as popularized by society each year.
+
 #
 #### Concepts
 
