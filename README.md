@@ -1,8 +1,5 @@
 ![Perfect](https://github.com/sourceduty/Popular_Perfection/assets/123030236/1429c55d-35ad-49d2-9fee-2aba8a2c6cee)
 
-#
-### Notes
-
 Alex: *"I made this repo as a concept to focus on a default of perfection that doesn't exist and I'm not trying to make this exist either."*
 
 #
