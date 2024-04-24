@@ -10,9 +10,6 @@ However, there are significant drawbacks to this approach. Focusing on 'perfecti
 
 > - Perfection is similar to standardization.
 
-> - AI could generate a Standard Human model.
-
-> - AI could generate a yearly Standard Report for the perfect models as popularized by society each year.
 
 #
 #### Concepts
@@ -24,6 +21,10 @@ However, there are significant drawbacks to this approach. Focusing on 'perfecti
 - Collecting and compiling features detected in Python code files to create a perfect_Python_code file.
 
 - Collecting and compiling features detected in house images to build a perfect_house_concept image.
+
+- AI could generate a Standard Human model.
+
+- AI could generate a yearly Standard Report for the perfect models as popularized by society each year.
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
