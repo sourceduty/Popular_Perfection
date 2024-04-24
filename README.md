@@ -12,7 +12,7 @@ However, there are significant drawbacks to this approach. Focusing on 'perfecti
 
 
 #
-#### Concepts
+#### Concept Notes
 
 - Collecting and compiling features detected in celebrity face images to create a perfect_face_concept image model.
 
