@@ -2,7 +2,7 @@
 
 #
 
-Alex: *"I made this repo as a concept to focus on a default of perfection that doesn't exist and I'm not trying to make this exist either."*
+> Alex: *"I made this repo as a concept to focus on a default of perfection that doesn't exist and I'm not trying to make this exist either."*
 
 > - Perfection is similar to standardization.
 
