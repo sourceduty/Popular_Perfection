@@ -14,13 +14,13 @@ However, there are significant drawbacks to this approach. Focusing on 'perfecti
 #
 #### Concept Notes
 
-- Collecting and compiling features detected in celebrity face images to create a perfect_face_concept image model.
+- Collecting and compiling features detected in celebrity face images to create a perfect_face_concept model.
 
-- Collecting and compiling features detected in product design images to create a perfect_product_concept image model.
+- Collecting and compiling features detected in product design images to create a perfect_product_concept model.
 
-- Collecting and compiling features detected in Python code files to create a perfect_Python_code file model.
+- Collecting and compiling features detected in Python code files to create a perfect_Python_code model.
 
-- Collecting and compiling features detected in house images to build a perfect_house_concept image model.
+- Collecting and compiling features detected in house images to build a perfect_house_concept model.
 
 - AI could generate a Standard Human model.
 
