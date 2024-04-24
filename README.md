@@ -6,7 +6,7 @@
 Alex: *"I made this repo as a concept to focus on a default of perfection that doesn't exist and I'm not trying to make this exist either."*
 
 #
-## Concepts
+#### Concepts
 
 - Collecting and compiling features detected in celebrity face images with Python to create a perfect_face_concept image.
 
