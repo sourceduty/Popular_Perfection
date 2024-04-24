@@ -15,13 +15,13 @@ However, there are significant drawbacks to this approach. Focusing on 'perfecti
 #
 #### Concepts
 
-- Collecting and compiling features detected in celebrity face images with Python to create a perfect_face_concept image.
+- Collecting and compiling features detected in celebrity face images to create a perfect_face_concept image.
 
-- Collecting and compiling features detected in product design images using Python to create a perfect_product_concept image.
+- Collecting and compiling features detected in product design images to create a perfect_product_concept image.
 
 - Collecting and compiling features detected in Python code files to create a perfect_Python_code file.
 
-- Collecting and compiling features detected in house images with Pyton to build a perfect_house_concept image.
+- Collecting and compiling features detected in house images to build a perfect_house_concept image.
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
