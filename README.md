@@ -6,6 +6,8 @@ Alex: *"I made this repo as a concept to focus on a default of perfection that d
 
 - Perfection is similar to standardization.
 
+- AI could generate a Standard Human model.
+
 #
 #### Concepts
 
