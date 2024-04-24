@@ -2,7 +2,13 @@
 
 🔝 The concept of perfection as popularized by society.
 
-## CONCEPTS
+#
+### Notes
+
+Alex: *"I made this repo as a concept to focus on a default of perfection that doesn't exist and I'm not trying to make this exist either."*
+
+#
+## Concepts
 
 - Collecting and compiling features detected in celebrity face images with Python to create a perfect_face_concept image.
 
@@ -12,8 +18,4 @@
 
 - Collecting and compiling features detected in house images with Pyton to build a perfect_house_concept image.
 
-## REFERENCES
-
-[Perfection](https://en.wikipedia.org/wiki/Perfection)
-<br />
-[Detect an object with OpenCV-Python](https://www.geeksforgeeks.org/detect-an-object-with-opencv-python/)
+***
