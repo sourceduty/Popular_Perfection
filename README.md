@@ -4,9 +4,9 @@
 
 Alex: *"I made this repo as a concept to focus on a default of perfection that doesn't exist and I'm not trying to make this exist either."*
 
-- Perfection is similar to standardization.
+> - Perfection is similar to standardization.
 
-- AI could generate a Standard Human model.
+> - AI could generate a Standard Human model.
 
 #
 #### Concepts
