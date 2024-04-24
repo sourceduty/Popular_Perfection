@@ -18,3 +18,4 @@ Alex: *"I made this repo as a concept to focus on a default of perfection that d
 - Collecting and compiling features detected in house images with Pyton to build a perfect_house_concept image.
 
 ***
+🛈 This information is free and open-source; anyone can redistribute it and/or modify.
